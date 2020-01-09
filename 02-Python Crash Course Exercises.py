@@ -30,7 +30,7 @@
 # In[8]:
 
 
-s = 'Hi there dad!'
+s = 'Hi there Sam!'
 
 
 # In[9]:
